@@ -8,11 +8,7 @@ import nodejs from "../../assets/nodejs.png";
 
 function Skill() {
   const skills = [
-    {
-      title: "Programming",
-      image: code,
-      items: ["C", "C++", "Python"],
-    },
+   
     {
       title: "Frontend",
       image: html,
